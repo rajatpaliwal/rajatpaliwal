@@ -1,4 +1,4 @@
-### Hi there. This is Rajat👋
+### Hi there,this is Rajat👋
 
 - 🔭 I’m currently working on doing fun things with medical imaging dataset.
 - 🌱 I’m currently learning to convert ML models into useful production applications.
