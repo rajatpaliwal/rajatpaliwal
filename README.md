@@ -9,3 +9,5 @@
   - 🏢 : [LinkedIn](https://www.linkedin.com/in/rajat-paliwal-309239b1/)
 
 [![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajatpaliwal&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
