@@ -1,6 +1,6 @@
 ### Hi there,this is Rajat👋
 
-- 🔭  I'm currently intrigued by MLOps
+- 🔭  Looking into awesome MLOps
 - 🌱  I’m currently learning to convert ML models into useful production applications.
 - 👯  I’m looking to collaborate on Computer vision, NLP , recommendation projects.
 - 💬  Ask me about ML, data science, Unity, and cricket.
